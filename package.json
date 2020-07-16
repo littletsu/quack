@@ -1,0 +1,24 @@
+{
+  "name": "quack",
+  "version": "1.0.0",
+  "description": "A twitch bot that can play sounds with commands. Just add .mp3 into `/audio` (some audios are already included for test purposes) and play it with `!audioname`. In case you add new sounds and want to keep it running just use the command `!rs`",
+  "main": "index.js",
+  "dependencies": {
+    "play-sound": "^1.1.3",
+    "tmi.js": "^1.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucia7777/quack.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucia7777/quack/issues"
+  },
+  "homepage": "https://github.com/lucia7777/quack#readme"
+}

@@ -9,7 +9,7 @@ const client = new tmi.Client({
 	},
 	identity: {
 		username: 'tsuuuuki_',
-		password: 'oauth:avhh5p7xzndzymkmxyiiw5lmelpbwz'
+		password: 'oauth:token'
 	},
 	channels: [ 'tsuuuuki_' ]
 });
